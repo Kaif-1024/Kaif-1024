@@ -3,7 +3,7 @@
  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/kaif-ali06/"
+    link = "https://linkedin.com/in/kaif-ali06/"
 
 - 🔭 I’m currently working on Python FullStack Development
 - 🌱 I’m currently learning 
