@@ -1,6 +1,6 @@
  Hi there 👋, My Name is Kaif Ali
 
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,14 +13,20 @@
         <ul>
             <li>
                 <a href="https://linkedin.com/in/kaif-ali06/" target="_blank">
-                    <i class="fab fa-linkedin"></i> Linkedin
+                    <i class="fab fa-linkedin"></i> LinkedIn
                 </a>
             </li>
-            <!-- Add other social links -->
+            <li>
+                <a href="https://www.instagram.com/rex_619_boy?igsh=OGhlMjdxNnBlYXg4" target="_blank">
+                    <i class="fab fa-instagram"></i> Instagram
+                </a>
+            </li>
         </ul>
     </nav>
 </body>
 </html>
+
+
 
 
 - 🔭 I’m currently working on Python FullStack Development
