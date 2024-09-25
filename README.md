@@ -4,7 +4,7 @@
 👋 Hi there! I'm MD Kaif Ali, a passionate Software Developer and Data Enthusiast based in Bangalore, India.<br>
 <br>
 
-![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20Repository-red?style=flat-square&logoColor=white) 🏠
+![Welcome](http://img.shields.io/badge/Welcome%20to%20my%20Repository-red?style=flat-square&logoColor=white) 🏠
  <hr></hr>
 
 <!DOCTYPE html>
