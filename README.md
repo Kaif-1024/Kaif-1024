@@ -1,9 +1,27 @@
  Hi there 👋, My Name is Kaif Ali
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://linkedin.com/in/kaif-ali06/"
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    Connect with Me &#129312;
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li>
+                <a href="https://linkedin.com/in/USERNAME" target="_blank">
+                    <i class="fab fa-linkedin"></i> Linkedin
+                </a>
+            </li>
+            <!-- Add other social links -->
+        </ul>
+    </nav>
+</body>
+</html>
+
 
 - 🔭 I’m currently working on Python FullStack Development
 - 🌱 I’m currently learning 
