@@ -12,7 +12,7 @@
     <nav>
         <ul>
             <li>
-                <a href="https://linkedin.com/in/USERNAME" target="_blank">
+                <a href="https://linkedin.com/in/kaif-ali06/" target="_blank">
                     <i class="fab fa-linkedin"></i> Linkedin
                 </a>
             </li>
