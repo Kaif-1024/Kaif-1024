@@ -1,4 +1,18 @@
-## Hi there 👋
+ Hi there 👋, My Name is Kaif Ali
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/kaif-ali06/"
+
+- 🔭 I’m currently working on Python FullStack Development
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **Kaif-1024/Kaif-1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
