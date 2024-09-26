@@ -54,8 +54,9 @@ I enjoy working on diverse projects that challenge my skills and allow me to exp
 
 
 ![gitt](https://github.com/user-attachments/assets/df0c0d7b-9622-4b32-bfc7-2a88397d78a4)
-![gitt2](https://github.com/user-attachments/assets/0ee59694-0ab5-41d4-bf31-2c2519c1004e)
 
+
+![GitBg](https://github.com/user-attachments/assets/a8b44875-3b50-408b-bdb8-d27e55e41e2a)
 <!--
 **Kaif-1024/Kaif-1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
