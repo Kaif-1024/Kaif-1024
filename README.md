@@ -47,7 +47,7 @@
 I enjoy working on diverse projects that challenge my skills and allow me to explore new technologies. Some of my notable projects include:
 - **Sales Data Analysis and Visualization**: Leveraged Python and Power BI for insightful data analysis.
 - **Currency Converter**: Created a user-friendly application in Python.
-- **Portfolio using HTML, CSS
+- **Portfolio** using HTML, CSS
 
 🌱 I’m currently learning about:
 - **Framework:** Django
